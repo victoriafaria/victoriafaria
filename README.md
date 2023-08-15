@@ -1,29 +1,15 @@
-
-![Victoria](https://1.bp.blogspot.com/-R4l39Hwm258/X3vQOtM19jI/AAAAAAAAgaA/L94SRF3ynRAcJkB4BwQTZeMaiRBKy4xlgCNcBGAsYHQ/s16000/oie_transparent%2B%252810%2529.png)
-
-
-
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriafaria&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=victoriafaria&theme=dark" /></td>
-  </tr>   
-</table>
-</center>
+![victoria faria](https://github.com/victoriafaria/victoriafaria/assets/38982861/e054007b-0cd8-450b-8f5f-2dfa23ba8fb9)
 
 <h4 align="left">
   Hey, I'm Victoria! 👋
 </h4>
 <p align="left">
-  I'm a bachelor in Systems Analysis and Development and passionate about technology and especially the Apple ecosystem. I have been working with development and coding for about 1 year, precisely with mobile development for iOS, including projects from conception to publication on the App Store.
+  I'm a bachelor in Systems Analysis and Development and passionate about technology and especially the Apple ecosystem. I have been working with development and coding for about 4 years, precisely with mobile development for iOS, including projects from conception to publication at the App Store.
 </p>
 <h5 align="left">
-  📌  Living in <b>Americana</b>, <b>São Paulo</b>, <b>Brazil</b>  
+  📌  <b>Campinas - SP</b>, <b>Brazil</b>  
 </h5>
-<h5 align="left">💻 Swift | SpriteKit | SceneKit | CXTests | CocoaPods | SwiftUI | Git | CoreML | SwiftLint </h5>
-
-<h5 align="left">💼 Currenty working with iOS Development at iFood </h5>
+<h5 align="left">💼 iOS Mentor @ Apple Developer Academy | Instituto de Pesquisas Eldorado </h5>
 
 <!--
 **victoriafaria/victoriafaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
